@@ -1,0 +1,16 @@
+{
+    "name": "QuickNode World",
+    "symbol": "QW",
+    "description": "World of Web3 Nodes",
+    "image": "https://quicknode.myfilebase.com/ipfs/QmP76NJ7cbPgLNRL2iTcvXdoCuS7z47Ke8ap2YXsJAttNf",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "ipfs://QmP76NJ7cbPgLNRL2iTcvXdoCuS7z47Ke8ap2YXsJAttNf/"
+            }
+        ]
+    }
+
+}
