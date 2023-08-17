@@ -1,0 +1,33 @@
+{
+    "name": "QNYellow",
+    "symbol": "QNC",
+    "description": "Yellow Q",
+    "image": "https://quicknode.myfilebase.com/ipfs/QmNhqmMhXUECkfFHWqCRzxSgKn9mQjML6QW9uryL4iezVF",
+    "attributes": [
+        {
+            "trait_type": "PROMO_CODE",
+            "value": "BUILD-AMB-5"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "79ULSN7NUgTu5ycKtePDCSAZzCCWmLK68ZcN34ypbjNM",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "ipfs://QmNhqmMhXUECkfFHWqCRzxSgKn9mQjML6QW9uryL4iezVF/"
+            }
+        ]
+    },
+    "collection": {
+        "name": "QNCity",
+        "family": "Buildings"
+    }
+}
+
+
+

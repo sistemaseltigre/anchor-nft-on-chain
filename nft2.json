@@ -1,0 +1,30 @@
+{
+    "name": "QnGreen",
+    "symbol": "QNC",
+    "description": "Green Q",
+    "image": "https://quicknode.myfilebase.com/ipfs/QmVfciq2QFcyb1PhqtbunY3tmRDPSw58Peq14vA2x2BMSo",
+    "attributes": [
+        {
+            "trait_type": "PROMO_CODE",
+            "value": "BUILD-AMB-5"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "79ULSN7NUgTu5ycKtePDCSAZzCCWmLK68ZcN34ypbjNM",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "ipfs://QmVfciq2QFcyb1PhqtbunY3tmRDPSw58Peq14vA2x2BMSo/"
+            }
+        ]
+    },
+    "collection": {
+        "name": "QNCity",
+        "family": "Buildings"
+    }
+}
